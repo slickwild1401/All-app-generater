@@ -1,0 +1,71 @@
+body{
+    text-align:center;
+}
+ul:hover {
+    transform: scale(1.15);
+ }
+.menu {
+    text-decoration: none;
+    position: fixed;
+    top: 0px;
+    background-color:E5D9B6;
+    margin-top: 0px;
+    z-index: 10;
+    cursor: pointer;
+    width: 100%;
+    text-decoration-color:rgb(35, 208, 12);
+    
+}
+
+#profile {
+    height:300px;
+    width:300px;
+    margin-top:200px;
+    border-radius: 70%;
+}
+
+.connect {
+    display: inline;
+    padding-left: 35px;
+    padding-right: 23px;
+    padding-top: 5px;
+    font-family: fantasy;
+    font-size: 22px;
+}
+.games{
+    height:500px;
+    width:500px;
+    border-radius:20%;
+}
+.line{
+    height: 6px;
+background-color: rgba(145, 222, 12, 0.869);
+width: 1300px;
+margin: 8px auto;
+}
+
+#apps {
+    font-family: cursive;
+    
+}
+#games {
+    font-family: cursive;
+    padding: 50px;
+    background-color:D989B5;
+    color:1D1CE5;
+}
+#welcome{
+    text-align:center;
+}
+
+img:hover {
+   transform: scale(0.85);
+}
+iframe:hover {
+    transform: scale(0.85);
+ }
+ .carousel-inner p{
+    font-size:35px;
+    color:1D1CE5;
+    
+ }
